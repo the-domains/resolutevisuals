@@ -1,0 +1,23 @@
+name: ResoluteVisuals
+favicon: null
+layout_spectrum: 0.3859242897015065
+typography_spectrum: 0.6643313062377274
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.20402348320931196
+  lightness: 0.8510234265122563
+  saturation: 0.8011226181406528
+  rhythmicContrast: 0.3910390005912632
+purpose: []
